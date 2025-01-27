@@ -7,7 +7,7 @@ This code is designed to listen to a microphone and then use OpenAI's GPT langua
 Install dependencies
 ```
 git clone 
-cd AI-Vtuber
+cd ai-wife
 pip install -r requirements.txt
 ```
 
